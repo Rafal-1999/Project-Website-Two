@@ -10,3 +10,7 @@
     list-style: none;
     padding-left: 0;
 }
+.navigation__menu-link {
+    color: #FFF;
+    text-decoration: none;
+}
