@@ -1,3 +1,6 @@
+.navigation {
+    display: flex;
+}
 .navigation__menu {
     display: flex;
 }
