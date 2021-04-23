@@ -7,4 +7,5 @@
 }
 .navigation__menu {
     display: flex;
+    padding-left: 0;
 }
