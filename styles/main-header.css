@@ -18,8 +18,13 @@
     bottom: 0;
 }
 .main-header__box {
+    width: 1000px;
+    text-align: center;
     z-index: 1;
 }
 .main-header__title, .main-header__description {
     color: #FFF;
+}
+.main-header__title {
+    font-size: 50px;
 }
