@@ -1,7 +1,9 @@
 .navigation {
     width: 70vw;
     margin: 0 auto;
+    padding: 30px 0;
     display: flex;
+    justify-content: space-between;
     position: fixed;
     top: 0;
     left: 0;
