@@ -26,6 +26,7 @@
     color: #FFF;
 }
 .main-header__title {
+    font-family: 'Source Sans Pro';
     font-size: 50px;
 }
 .main-header__description {
