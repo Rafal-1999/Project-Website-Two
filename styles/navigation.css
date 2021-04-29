@@ -16,6 +16,7 @@
     padding-left: 0;
 }
 .navigation__menu-link {
+    font-family: 'Source Sans Pro';
     color: #FFF;
     text-decoration: none;
 }
