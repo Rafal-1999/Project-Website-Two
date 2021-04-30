@@ -54,3 +54,6 @@
     font-family: 'Roboto';
     font-size: 18px;
 }
+.main-header__buttons-item--background {
+    background:rgb(255, 0, 0);
+}
