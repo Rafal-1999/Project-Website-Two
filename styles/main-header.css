@@ -31,6 +31,7 @@
 .main-header__title {
     font-family: 'Source Sans Pro';
     font-size: 50px;
+    text-transform: capitalize;
 }
 .main-header__description {
     font-size: 20px;
