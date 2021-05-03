@@ -12,11 +12,15 @@
 }
 .navigation__menu {
     display: flex;
+    flex-direction: row;
     list-style: none;
     padding-left: 0;
 }
+.navigation__menu-item {
+    margin: 0 15px;
+}
 .navigation__menu-link {
-    font-family: 'Source Sans Pro';
+    font-family: 'Roboto';
     color: #FFF;
     text-decoration: none;
 }
