@@ -1,14 +1,25 @@
-.main-header {
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-image: url("../images/main/background.jpg");
     background-size: cover;
     background-position: center;
     height: 90vh;
+    position: relative;
+}
+.main-header {
+    /* background-image: url("../images/main/background.jpg"); */
+    /* background-size: cover;
+    background-position: center;
+    height: 90vh; */
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
 }
-.main-header::after {
+/* .main-header::after {
     content: "";
     background: rgba(0, 0, 0, 0.4);
     position: absolute;
@@ -16,7 +27,7 @@
     top: 0;
     right: 0;
     bottom: 0;
-}
+} */
 .main-header__box {
     max-width: 55%;
     display: flex;
