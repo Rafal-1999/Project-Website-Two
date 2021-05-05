@@ -1,8 +1,4 @@
 .main-header {
-    /* background-image: url("../images/main/background.jpg"); */
-    /* background-size: cover;
-    background-position: center;
-    height: 90vh; */
     max-width: 55%;
     display: flex;
     flex-direction: column;
@@ -12,15 +8,6 @@
     position: relative;
     z-index: 1;
 }
-/* .main-header::after {
-    content: "";
-    background: rgba(0, 0, 0, 0.4);
-    position: absolute;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
-} */
 .main-header__box {
     max-width: 55%;
     display: flex;
