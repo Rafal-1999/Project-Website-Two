@@ -3,3 +3,6 @@
     margin: 0 auto;
     display: flex;
 }
+.tiles__informations {
+    width: 30%;
+}
