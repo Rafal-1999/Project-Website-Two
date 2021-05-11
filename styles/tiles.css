@@ -4,7 +4,7 @@
     display: flex;
 }
 .tiles__informations {
-    width: 30%;
+    flex: 30%;
 }
 .tiles__informations-line {
     width: 50px;
