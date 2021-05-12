@@ -5,6 +5,7 @@
 }
 .tiles__informations {
     flex: 30%;
+    background: rgb(8, 14, 16);
 }
 .tiles__informations-icon {
     width: 60px;
