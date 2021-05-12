@@ -18,7 +18,7 @@
     margin: 0 15px;
 }
 .navigation__menu-link {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     color: #FFF;
     text-decoration: none;
 }

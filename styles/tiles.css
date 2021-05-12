@@ -19,5 +19,7 @@
     border-bottom: 1px solid #FFF;
 }
 .tiles__informations-description {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     color: #FFF;
 }

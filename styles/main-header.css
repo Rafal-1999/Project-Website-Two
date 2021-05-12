@@ -20,14 +20,14 @@
     color: #FFF;
 }
 .main-header__title {
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 50px;
     text-transform: capitalize;
 }
 .main-header__description {
     font-size: 20px;
-    font-family: 'Roboto';
-    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     line-height: 1.2em;
     max-width: 65%;
 }
@@ -44,7 +44,7 @@
     text-transform: capitalize;
     margin: 0 10px;
     padding: 10px 0;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
 }
 .main-header__buttons-item--background {
