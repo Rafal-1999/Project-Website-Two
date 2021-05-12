@@ -11,7 +11,13 @@
 .tiles__informations-icon {
     width: 60px;
 }
+.tiles__informations-header {
+    color: #FFF;
+}
 .tiles__informations-line {
     width: 50px;
     border-bottom: 1px solid #FFF;
+}
+.tiles__informations-description {
+    color: #FFF;
 }
