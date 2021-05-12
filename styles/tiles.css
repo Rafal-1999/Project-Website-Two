@@ -2,9 +2,10 @@
     width: 70vw;
     margin: 0 auto;
     display: flex;
+    justify-content: space-around;
 }
 .tiles__informations {
-    flex: 30%;
+    width: 30%;
     background: rgb(32, 43, 48);
     padding: 60px 50px;
 }
