@@ -38,7 +38,7 @@
 }
 .main-header__buttons-item {
     width: 150px;
-    border: 3px solid rgb(255, 0, 0);
+    border: 3px solid rgb(251, 65, 78);
     color: #FFF;
     text-decoration: none;
     text-transform: capitalize;
@@ -48,5 +48,5 @@
     font-size: 18px;
 }
 .main-header__buttons-item--background {
-    background:rgb(255, 0, 0);
+    background: rgb(251, 65, 78);
 }
