@@ -3,6 +3,8 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-around;
+    position: relative;
+    top: -70px;
 }
 .tiles__informations {
     width: 30%;
