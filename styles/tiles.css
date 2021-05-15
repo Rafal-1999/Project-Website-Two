@@ -19,6 +19,7 @@
     margin: 20px 0;
 }
 .tiles__informations-header {
+    font-family: 'Roboto', sans-serif;
     color: #FFF;
     text-transform: capitalize;
 }
