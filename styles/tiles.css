@@ -11,6 +11,9 @@
     background: rgb(32, 43, 48);
     padding: 50px 60px;
 }
+.tiles__informations:hover {
+    background: rgb(251, 65, 78);
+}
 .tiles__informations-icon {
     width: 60px;
     margin: 20px 0;
