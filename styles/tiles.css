@@ -20,6 +20,7 @@
 }
 .tiles__informations-header {
     color: #FFF;
+    text-transform: capitalize;
 }
 .tiles__informations-line {
     width: 50px;
