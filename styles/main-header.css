@@ -1,4 +1,4 @@
-.main-header {
+.main-banner__header {
     max-width: 55%;
     display: flex;
     flex-direction: column;
@@ -16,15 +16,15 @@
     text-align: center;
     z-index: 1;
 }
-.main-header__title, .main-header__description {
+.main-banner__title, .main-banner__description {
     color: #FFF;
 }
-.main-header__title {
+.main-banner__title {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 50px;
     text-transform: capitalize;
 }
-.main-header__description {
+.main-banner__description {
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
