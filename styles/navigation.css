@@ -14,10 +14,10 @@
     list-style: none;
     padding-left: 0;
 }
-.navigation__menu-item {
+.navigation__item {
     margin: 0 15px;
 }
-.navigation__menu-link {
+.navigation__link {
     font-family: 'Roboto', sans-serif;
     color: #FFF;
     text-decoration: none;
