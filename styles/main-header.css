@@ -31,12 +31,12 @@
     line-height: 1.2em;
     max-width: 67%;
 }
-.main-header__buttons {
+.main-banner__buttons {
     display: flex;
     justify-content: center;
     margin-top: 10px;
 }
-.main-header__buttons-item {
+.main-banner__button {
     width: 150px;
     border: 3px solid rgb(251, 65, 78);
     color: #FFF;
@@ -47,6 +47,6 @@
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
 }
-.main-header__buttons-item--background {
+.main-banner__button--background {
     background: rgb(251, 65, 78);
 }
