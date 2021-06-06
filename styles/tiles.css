@@ -14,20 +14,20 @@
 .tiles__informations:hover {
     background: rgb(251, 65, 78);
 }
-.tiles__informations-icon {
+.tiles__icon {
     width: 60px;
     margin: 20px 0;
 }
-.tiles__informations-header {
+.tiles__header {
     font-family: 'Roboto', sans-serif;
     color: #FFF;
     text-transform: capitalize;
 }
-.tiles__informations-line {
+.tiles__line {
     width: 50px;
     border-bottom: 1px solid #FFF;
 }
-.tiles__informations-description {
+.tiles__description {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #FFF;
