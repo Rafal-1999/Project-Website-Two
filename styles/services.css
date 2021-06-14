@@ -1,5 +1,6 @@
 .services {
     max-width: 55%;
+    /* Is it need? */
     margin: 0 auto;
     text-align: center;
 }
