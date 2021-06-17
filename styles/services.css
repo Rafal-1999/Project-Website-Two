@@ -1,3 +1,6 @@
 .services {
     text-align: center;
 }
+.services__article {
+    display: flex;
+}
