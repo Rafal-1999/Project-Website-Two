@@ -10,6 +10,10 @@
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 52px;
 }
+.services__highlighted-text {
+    color: rgb(251, 65, 78);
+    text-transform: capitalize;
+}
 .services__article {
     display: flex;
 }
