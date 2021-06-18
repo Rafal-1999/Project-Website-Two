@@ -6,6 +6,10 @@
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 }
+.services__header-title {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 52px;
+}
 .services__article {
     display: flex;
 }
