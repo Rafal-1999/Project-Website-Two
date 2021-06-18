@@ -1,6 +1,11 @@
 .services {
     text-align: center;
 }
+.services__subtitle {
+    color: rgb(251, 65, 78);
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
 .services__article {
     display: flex;
 }
