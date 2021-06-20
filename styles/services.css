@@ -8,14 +8,14 @@
 }
 .services__header-title {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 52px;
+    font-size: 55px;
 }
 .services__highlighted-text {
     color: rgb(251, 65, 78);
     text-transform: capitalize;
 }
 .services__text {
-    width: 46%; /* Correct it */
+    max-width: 600px;
     margin: 0 auto;
     color: rgb(167, 167, 167);
     font-family: 'Source Sans Pro', sans-serif;
