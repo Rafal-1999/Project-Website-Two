@@ -23,4 +23,5 @@
 .services__article {
     display: flex;
     margin: 100px 0;
+    /* To add good width */
 }
