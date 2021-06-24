@@ -31,3 +31,7 @@
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 25px;
 }
+.services__description {
+    font-family: 'Roboto', sans-serif;
+    padding: 0 8%;
+}
