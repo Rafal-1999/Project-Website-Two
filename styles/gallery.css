@@ -1,3 +1,6 @@
 .gallery {
-    display: flex;
+    display: grid;
+    /* In the process of making */
+    /* grid-template-columns: repeat(4, minmax(25%, 1fr)); */
+    /* grid-template-columns: repeat(4, 1fr); */
 }
