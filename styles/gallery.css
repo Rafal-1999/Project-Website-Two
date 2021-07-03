@@ -3,3 +3,7 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }
+.gallery__aspect-ratio {
+    position: relative;
+    padding-top: calc(100% * 9 / 16);
+}
