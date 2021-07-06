@@ -7,3 +7,6 @@
     position: relative;
     padding-top: calc(100% * 9 / 16);
 }
+.gallery__picture {
+    position: absolute;
+}
