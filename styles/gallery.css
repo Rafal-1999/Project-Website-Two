@@ -15,8 +15,7 @@
     top: 0;
     width: 100%;
     height: 100%;
-    transition-timing-function: ease;
-    transition-duration: 0.3s;
+    transition-duration: 10s;
 }
 .gallery__picture:hover {
     transform: scale(1.1);
