@@ -5,6 +5,8 @@
     color: rgb(251, 65, 78);
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
+    margin: 0;
+    padding-top: 25px;
 }
 .services__header-title {
     font-family: 'Source Sans Pro', sans-serif;
