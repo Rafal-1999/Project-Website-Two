@@ -7,7 +7,7 @@
 }
 .gallery__aspect-ratio {
     position: relative;
-    padding-top: calc(100% * 9 / 16);
+    padding-top: 100%;
 }
 .gallery__picture {
     position: absolute;
