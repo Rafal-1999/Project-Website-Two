@@ -4,6 +4,7 @@
     width: 90vw;
     margin: 0 auto;
     gap: 15px;
+    padding-top: 25px;
 }
 .gallery__aspect-ratio {
     position: relative;
