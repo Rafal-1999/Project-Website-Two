@@ -1,4 +1,13 @@
 .contact {
     width: 65%;
     margin: 125px auto;
+    display: flex;
+}
+.contact__text {
+    width: 50%;
+    padding-right: 30px;
+    text-align: right;
+}
+.contact__data {
+    width: 50%;
 }
