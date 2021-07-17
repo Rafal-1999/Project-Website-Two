@@ -8,6 +8,11 @@
     padding-right: 30px;
     text-align: right;
 }
+.contact__header {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 45px;
+    margin: 0;
+}
 .contact__data {
     width: 50%;
 }
