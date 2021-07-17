@@ -1,6 +1,7 @@
 .contact {
     width: 65%;
-    margin: 125px auto;
+    margin: 100px auto;
+    padding-top: 25px;
     display: flex;
 }
 .contact__text {
