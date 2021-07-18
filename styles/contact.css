@@ -14,6 +14,16 @@
     font-size: 45px;
     margin: 0;
 }
+.contact__description {
+    width: 76%;
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    color: #A7A7A7;
+    margin: 20px 0;
+}
+.contact__description--width {
+    width: 80%;
+}
 .contact__data {
     width: 50%;
 }
