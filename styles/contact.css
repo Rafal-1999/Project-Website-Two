@@ -20,6 +20,7 @@
     font-family: 'Roboto', sans-serif;
     color: #A7A7A7;
     margin: 20px 0;
+    line-height: 2;
 }
 .contact__description--width {
     width: 80%;
