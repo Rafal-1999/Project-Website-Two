@@ -14,15 +14,21 @@
     font-size: 45px;
     margin: 0;
 }
+.contact__content {
+    margin-top: 40px;
+}
 .contact__description {
     width: 76%;
     float: right;
     font-family: 'Roboto', sans-serif;
     color: #A7A7A7;
-    margin: 20px 0;
+    margin: 0;
     line-height: 2;
 }
-.contact__description--width {
+.contact__description--bottom-space {
+    margin-bottom: 50px;
+}
+.contact__description--bigger-width {
     width: 80%;
 }
 .contact__data {
@@ -32,10 +38,15 @@
     display: flex;
 }
 .contact__form-field {
+    --gap: 15px;
     position: relative;
+    margin-bottom: var(--gap);
 }
-.contact__form-field--width {
+.contact__form-field--half-width {
     width: 50%;
+}
+.contact__form-field--right-space {
+    margin-right: var(--gap);
 }
 .contact__field-title {
     position: absolute;
@@ -45,7 +56,10 @@
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     color: #A8A3A3;
+    /* padding: 5px 5px 0 7px;  */
+    /* Hide the top with the field title. */
     cursor: text;
+    background: #FFF;
 }
 .contact__field {
     width: 100%;
@@ -57,11 +71,17 @@
 .contact__field--padding {
     padding: 27px 5px 5px 7px;
 }
+.contact__field--dimensions {
+    min-height: 210px;
+    max-height: 300px;
+    resize: vertical;
+}
 .contact__button {
     background: #FB414E;
     border: 1px solid #A3A3A3;
     color: #FFF;
     width: 100%;
     padding: 15px 0;
+    margin-top: 30px;
     cursor: pointer;
 }
