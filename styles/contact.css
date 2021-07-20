@@ -34,6 +34,9 @@
 .contact__form-field {
     position: relative;
 }
+.contact__form-field--width {
+    width: 50%;
+}
 .contact__field-title {
     position: absolute;
     top: 10px;
