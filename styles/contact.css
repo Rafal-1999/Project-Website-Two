@@ -49,15 +49,16 @@
     margin-right: var(--gap);
 }
 .contact__field-title {
+    --space: 3px;
+    width: calc(100% - 2 * var(--space));
     position: absolute;
-    top: 10px;
-    left: 7px;
+    top: var(--space);
+    left: var(--space);
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     color: #A8A3A3;
-    /* padding: 5px 5px 0 7px;  */
-    /* Hide the top with the field title. */
+    padding: 5px 0 0 5px;
     cursor: text;
     background: #FFF;
 }
