@@ -3,6 +3,7 @@
 **Technologies used:**
 * HTML5
 * CSS3
+* BEM
 
 **Description:**
 
