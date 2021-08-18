@@ -37,3 +37,19 @@
     font-family: 'Roboto', sans-serif;
     padding: 0 8%;
 }
+@media (max-width: 1050px) {
+    .services__article {
+        padding: 0;
+    }
+}
+@media (max-width: 760px) {
+    .services__article {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 550px) {
+    .services__article {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+}
