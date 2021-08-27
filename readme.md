@@ -11,3 +11,6 @@ https://rafal-1999.github.io/Project-Website-Two/
 **Description:**
 
 The second design of a full-size website.
+
+## Home page
+![Home page](./images/home-page.png)
