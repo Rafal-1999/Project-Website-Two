@@ -22,6 +22,11 @@
 .gallery__picture:hover {
     transform: scale(1.2);
 }
+@media (max-width: 1050px) {
+    .gallery {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
 @media (max-width: 760px) {
     .gallery {
         grid-template-columns: repeat(2, 1fr);
