@@ -22,3 +22,8 @@
     color: #FFF;
     text-decoration: none;
 }
+@media (max-width: 760px) {
+    .navigation {
+        width: 90vw;
+    }
+}
