@@ -50,3 +50,14 @@
 .main-banner__button--background {
     background: rgb(251, 65, 78);
 }
+@media (max-width: 760px) {
+    .main-banner__header {
+        max-width: 80%;
+    }
+    .main-banner__title {
+        font-size: 40px;
+    }
+    .main-banner__description {
+        max-width: 75%;
+    }
+}
