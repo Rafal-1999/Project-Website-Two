@@ -27,3 +27,8 @@
         width: 90vw;
     }
 }
+@media (max-width: 550px) {
+    .navigation__menu {
+        display: none;
+    }
+}
