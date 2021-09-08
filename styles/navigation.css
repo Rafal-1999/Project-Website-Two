@@ -22,6 +22,9 @@
     color: #FFF;
     text-decoration: none;
 }
+.navigation__menu-button {
+    display: none;
+}
 @media (max-width: 760px) {
     .navigation {
         width: 90vw;
