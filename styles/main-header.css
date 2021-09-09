@@ -8,17 +8,6 @@
     position: relative;
     z-index: 1;
 }
-.main-header__box {
-    max-width: 55%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    z-index: 1;
-}
-.main-banner__title, .main-banner__description {
-    color: #FFF;
-}
 .main-header__title {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 50px;
@@ -33,7 +22,6 @@
 }
 .main-header__buttons {
     display: flex;
-    justify-content: center;
     margin-top: 10px;
 }
 .main-header__button {
