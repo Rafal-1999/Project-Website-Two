@@ -7,6 +7,7 @@
     text-align: center;
     position: relative;
     z-index: 1;
+    color: #FFF;
 }
 .main-header__title {
     font-family: 'Source Sans Pro', sans-serif;
@@ -39,11 +40,11 @@
     background: rgb(251, 65, 78);
 }
 @media (max-width: 760px) {
-    .main-header__header {
+    .main-header {
         max-width: 80%;
     }
     .main-header__title {
-        font-size: 40px;
+        font-size: 35px;
     }
     .main-header__description {
         max-width: 75%;
