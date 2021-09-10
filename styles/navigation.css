@@ -46,7 +46,13 @@
     }
 }
 @media (max-width: 550px) {
+    .navigation {
+        align-items: center;
+    }
     .navigation__menu {
         display: none;
+    }
+    .navigation__menu-button {
+        display: unset;
     }
 }
