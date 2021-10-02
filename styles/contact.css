@@ -92,3 +92,8 @@
     margin-top: 30px;
     cursor: pointer;
 }
+@media (max-width: 1050px) {
+    .contact {
+        width: 90%;
+    }
+}
