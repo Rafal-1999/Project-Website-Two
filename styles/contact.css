@@ -97,3 +97,8 @@
         width: 90%;
     }
 }
+@media (max-width: 760px) {
+    .contact {
+        flex-direction: column;
+    }
+}
