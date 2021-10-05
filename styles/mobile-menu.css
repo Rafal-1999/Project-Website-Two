@@ -9,3 +9,9 @@
     transform: translateX(100%);
     transition: 0.3s;
 }
+.mobile-menu__header {
+    --line: 1px solid #CCC;
+    display: flex;
+    align-items: center;
+    border-bottom: var(--line);
+}
