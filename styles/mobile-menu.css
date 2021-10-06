@@ -15,3 +15,7 @@
     align-items: center;
     border-bottom: var(--line);
 }
+.mobile-menu__back {
+    padding: 5vw;
+    border-right: var(--line);
+}
