@@ -26,3 +26,8 @@
     font-size: var(--textSize);
     margin: 0 auto;
 }
+.mobile-menu__navigation {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
