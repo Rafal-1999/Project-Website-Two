@@ -1,5 +1,7 @@
 .mobile-menu {
     --line: 1px solid #CCC;
+    --textColor: #AAA;
+    --textSize: 18px;
     position: fixed;
     top: 0;
     left: 0;
@@ -20,8 +22,6 @@
     border-right: var(--line);
 }
 .mobile-menu__title {
-    --textColor: #AAA;
-    --textSize: 18px;
     color: var(--textColor);
     font-size: var(--textSize);
     margin: 0 auto;
