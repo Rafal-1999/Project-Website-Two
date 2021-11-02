@@ -1,0 +1,11 @@
+.footer {
+    background: rgb(32, 43, 48);
+    color: #FFF;
+    text-align: center;
+    padding: 25px 0;
+}
+.footer__copyright {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
