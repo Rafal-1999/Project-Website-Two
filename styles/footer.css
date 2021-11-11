@@ -7,5 +7,11 @@
 .footer__copyright {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.footer__text {
     margin: 0;
 }
