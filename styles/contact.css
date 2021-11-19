@@ -101,4 +101,13 @@
     .contact {
         flex-direction: column;
     }
+    .contact__text {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .contact__description {
+        width: 100%;
+    }
 }
