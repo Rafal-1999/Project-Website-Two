@@ -53,6 +53,6 @@
         display: none;
     }
     .navigation__menu-button {
-        display: unset;
+        display: block;
     }
 }
