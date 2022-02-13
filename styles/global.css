@@ -2,5 +2,6 @@
     box-sizing: border-box;
 }
 html {
+    box-sizing: inherit;
     scroll-behavior: smooth;
 }
