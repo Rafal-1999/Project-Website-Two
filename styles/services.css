@@ -4,6 +4,7 @@
 .services__subtitle {
     color: rgb(251, 65, 78);
     font-family: 'Roboto', sans-serif;
+    font-size: 14px;
     text-transform: uppercase;
     margin: 0;
     padding-top: 25px;
