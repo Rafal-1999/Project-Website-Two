@@ -35,6 +35,13 @@
     padding: 10px 0;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
+    transition: all 0.5s linear;
+}
+.main-header__button:hover,
+.main-header__button:focus {
+    color: rgb(251, 65, 78);
+    background: #FFF;
+    border-color: #FFF;
 }
 .main-header__button--background {
     background: rgb(251, 65, 78);
