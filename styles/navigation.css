@@ -21,6 +21,14 @@
     font-family: 'Roboto', sans-serif;
     color: #FFF;
     text-decoration: none;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: transparent;
+    transition: border-bottom-color 0.5s linear;
+}
+.navigation__link:hover,
+.navigation__link:focus {
+    border-bottom-color: #FFF;
 }
 .navigation__menu-button {
     display: none;

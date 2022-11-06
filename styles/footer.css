@@ -16,6 +16,14 @@
     margin: 0;
 }
 .footer__link {
-    color: unset;
+    color: #FFF;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFF;
     text-decoration: none;
+    transition: border-bottom-color 0.3s linear;
+}
+.footer__link:hover,
+.footer__link:focus {
+    border-bottom-color: transparent;
 }
