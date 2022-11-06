@@ -49,7 +49,7 @@
     margin-right: var(--gap);
 }
 .contact__field-title {
-    --space: 1px;
+    --space: 2px;
     width: calc(100% - 2 * var(--space));
     position: absolute;
     top: var(--space);
